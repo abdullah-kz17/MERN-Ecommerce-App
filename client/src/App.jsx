@@ -4,7 +4,7 @@ import { Suspense, lazy } from "react";
 import PrivateRoute from "./components/protectedRoutes/PrivateRoute";
 import AdminRoute from "./components/protectedRoutes/AdminRoute";
 import Header from "./components/layout/Header";
-import Footer from "./components/layout/footer";
+import Footer from "./components/layout/Footer";
 import Loader from "./components/common/Loader";
 import UpdateProfile from "./pages/UpdateProfile";
 
